@@ -1,0 +1,57 @@
+.profilelogo{
+    height: 36px;
+    width: 36px;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+    font: menu;
+}
+div.nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 1.25rem;
+    align-items: center;
+}
+nav{
+    background-color: #022E54;
+}
+span.lnav{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 1.25rem;
+}
+span.rnav{
+    display: flex;
+    align-items: center;
+    padding-right: 1.25rem;
+}
+a.orgbd{
+    padding: 0.625rem;
+}
+a.team{
+    padding: 0.625rem;
+}
+a.name{
+    padding: 0.625rem;
+    text-align: center;
+}
+img.profilelogo{
+    border-radius: 50%;
+}
+section{
+    border-radius: 2%;
+    margin-left: 11rem;
+    padding-left:20rem;
+    width: 58.438rem;
+    padding: 1.875rem;
+    margin-bottom: 1.875rem;
+    background-color: #eeeeee;
+}
+p.body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font: bolder;
+    font-size: 1.313rem;
+    font-weight: 12.5rem;
+    text-align: center;
+}
